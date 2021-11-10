@@ -1,6 +1,6 @@
 # Sales-Insight-For-Meijer-Enterprise
 <h2>Business Request & User Stories</h2><br>
-This business request for the data analyst to execute sales report for Chief Commercial Officer. 
+This business request for the data analyst to execute sales report for the Chief Commercial Officer. 
 Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br><br>
 <img src='BR.PNG'>
 <br>
