@@ -14,7 +14,6 @@ Two data sources (sales budgets) were provided in Excel format and were connecte
 <br>
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 <br>
-<br>
 <img src='DM.PNG'>
 <br>
 <h2>Key Insight Dashboard</h2>
